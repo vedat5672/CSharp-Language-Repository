@@ -1,0 +1,17 @@
+C:\Users\Monster\source\repos\Game\Game\bin\Debug\net6.0-windows\Game.exe
+C:\Users\Monster\source\repos\Game\Game\bin\Debug\net6.0-windows\Game.deps.json
+C:\Users\Monster\source\repos\Game\Game\bin\Debug\net6.0-windows\Game.runtimeconfig.json
+C:\Users\Monster\source\repos\Game\Game\bin\Debug\net6.0-windows\Game.dll
+C:\Users\Monster\source\repos\Game\Game\bin\Debug\net6.0-windows\Game.pdb
+C:\Users\Monster\source\repos\Game\Game\obj\Debug\net6.0-windows\Game.csproj.AssemblyReference.cache
+C:\Users\Monster\source\repos\Game\Game\obj\Debug\net6.0-windows\Game.Form1.resources
+C:\Users\Monster\source\repos\Game\Game\obj\Debug\net6.0-windows\Game.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\Game\Game\obj\Debug\net6.0-windows\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\source\repos\Game\Game\obj\Debug\net6.0-windows\Game.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\Game\Game\obj\Debug\net6.0-windows\Game.AssemblyInfo.cs
+C:\Users\Monster\source\repos\Game\Game\obj\Debug\net6.0-windows\Game.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\Game\Game\obj\Debug\net6.0-windows\Game.dll
+C:\Users\Monster\source\repos\Game\Game\obj\Debug\net6.0-windows\refint\Game.dll
+C:\Users\Monster\source\repos\Game\Game\obj\Debug\net6.0-windows\Game.pdb
+C:\Users\Monster\source\repos\Game\Game\obj\Debug\net6.0-windows\Game.genruntimeconfig.cache
+C:\Users\Monster\source\repos\Game\Game\obj\Debug\net6.0-windows\ref\Game.dll

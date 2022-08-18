@@ -1,0 +1,8 @@
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\CSharpCourse\Class\bin\Debug\Class.exe.config
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\CSharpCourse\Class\bin\Debug\Class.exe
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\CSharpCourse\Class\bin\Debug\Class.pdb
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\CSharpCourse\Class\obj\Debug\Class.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\CSharpCourse\Class\obj\Debug\Class.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\CSharpCourse\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\CSharpCourse\Class\obj\Debug\Class.exe
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\CSharpCourse\Class\obj\Debug\Class.pdb

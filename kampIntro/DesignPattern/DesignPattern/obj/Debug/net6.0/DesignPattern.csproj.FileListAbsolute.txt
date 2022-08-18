@@ -1,0 +1,15 @@
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.exe
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.deps.json
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.runtimeconfig.json
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.dll
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.pdb
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.AssemblyInfo.cs
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.dll
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\DesignPattern\DesignPattern\obj\Debug\net6.0\refint\DesignPattern.dll
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.pdb
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.genruntimeconfig.cache
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\DesignPattern\DesignPattern\obj\Debug\net6.0\ref\DesignPattern.dll

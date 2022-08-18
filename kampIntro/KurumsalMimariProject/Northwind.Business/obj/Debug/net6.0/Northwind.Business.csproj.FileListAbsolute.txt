@@ -1,0 +1,17 @@
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\KurumsalMimariProject\Northwind.Business\bin\Debug\net6.0\Northwind.Business.deps.json
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\KurumsalMimariProject\Northwind.Business\bin\Debug\net6.0\Northwind.Business.dll
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\KurumsalMimariProject\Northwind.Business\bin\Debug\net6.0\Northwind.Business.pdb
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\KurumsalMimariProject\Northwind.Business\bin\Debug\net6.0\Northwind.DataAccess.dll
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\KurumsalMimariProject\Northwind.Business\bin\Debug\net6.0\Northwind.Entities.dll
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\KurumsalMimariProject\Northwind.Business\bin\Debug\net6.0\Northwind.DataAccess.pdb
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\KurumsalMimariProject\Northwind.Business\bin\Debug\net6.0\Northwind.Entities.pdb
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\KurumsalMimariProject\Northwind.Business\obj\Debug\net6.0\Northwind.Business.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\KurumsalMimariProject\Northwind.Business\obj\Debug\net6.0\Northwind.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\KurumsalMimariProject\Northwind.Business\obj\Debug\net6.0\Northwind.Business.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\KurumsalMimariProject\Northwind.Business\obj\Debug\net6.0\Northwind.Business.AssemblyInfo.cs
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\KurumsalMimariProject\Northwind.Business\obj\Debug\net6.0\Northwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\KurumsalMimariProject\Northwind.Business\obj\Debug\net6.0\Northwind.Business.csproj.CopyComplete
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\KurumsalMimariProject\Northwind.Business\obj\Debug\net6.0\Northwind.Business.dll
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\KurumsalMimariProject\Northwind.Business\obj\Debug\net6.0\refint\Northwind.Business.dll
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\KurumsalMimariProject\Northwind.Business\obj\Debug\net6.0\Northwind.Business.pdb
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\KurumsalMimariProject\Northwind.Business\obj\Debug\net6.0\ref\Northwind.Business.dll

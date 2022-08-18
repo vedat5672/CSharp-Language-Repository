@@ -1,0 +1,17 @@
+C:\Users\Monster\source\repos\UcanTop\UcanTop\bin\Debug\net6.0-windows\UcanTop.exe
+C:\Users\Monster\source\repos\UcanTop\UcanTop\bin\Debug\net6.0-windows\UcanTop.deps.json
+C:\Users\Monster\source\repos\UcanTop\UcanTop\bin\Debug\net6.0-windows\UcanTop.runtimeconfig.json
+C:\Users\Monster\source\repos\UcanTop\UcanTop\bin\Debug\net6.0-windows\UcanTop.dll
+C:\Users\Monster\source\repos\UcanTop\UcanTop\bin\Debug\net6.0-windows\UcanTop.pdb
+C:\Users\Monster\source\repos\UcanTop\UcanTop\obj\Debug\net6.0-windows\UcanTop.csproj.AssemblyReference.cache
+C:\Users\Monster\source\repos\UcanTop\UcanTop\obj\Debug\net6.0-windows\UcanTop.Form1.resources
+C:\Users\Monster\source\repos\UcanTop\UcanTop\obj\Debug\net6.0-windows\UcanTop.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\UcanTop\UcanTop\obj\Debug\net6.0-windows\UcanTop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\source\repos\UcanTop\UcanTop\obj\Debug\net6.0-windows\UcanTop.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\UcanTop\UcanTop\obj\Debug\net6.0-windows\UcanTop.AssemblyInfo.cs
+C:\Users\Monster\source\repos\UcanTop\UcanTop\obj\Debug\net6.0-windows\UcanTop.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\UcanTop\UcanTop\obj\Debug\net6.0-windows\UcanTop.dll
+C:\Users\Monster\source\repos\UcanTop\UcanTop\obj\Debug\net6.0-windows\refint\UcanTop.dll
+C:\Users\Monster\source\repos\UcanTop\UcanTop\obj\Debug\net6.0-windows\UcanTop.pdb
+C:\Users\Monster\source\repos\UcanTop\UcanTop\obj\Debug\net6.0-windows\UcanTop.genruntimeconfig.cache
+C:\Users\Monster\source\repos\UcanTop\UcanTop\obj\Debug\net6.0-windows\ref\UcanTop.dll

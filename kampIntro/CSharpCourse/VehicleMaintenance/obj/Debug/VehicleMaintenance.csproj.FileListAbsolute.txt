@@ -1,0 +1,8 @@
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\CSharpCourse\VehicleMaintenance\bin\Debug\VehicleMaintenance.exe.config
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\CSharpCourse\VehicleMaintenance\bin\Debug\VehicleMaintenance.exe
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\CSharpCourse\VehicleMaintenance\bin\Debug\VehicleMaintenance.pdb
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\CSharpCourse\VehicleMaintenance\obj\Debug\VehicleMaintenance.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\CSharpCourse\VehicleMaintenance\obj\Debug\VehicleMaintenance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\CSharpCourse\VehicleMaintenance\obj\Debug\VehicleMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\CSharpCourse\VehicleMaintenance\obj\Debug\VehicleMaintenance.exe
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\CSharpCourse\VehicleMaintenance\obj\Debug\VehicleMaintenance.pdb

@@ -1,0 +1,8 @@
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\CSharpCourse\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\CSharpCourse\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\CSharpCourse\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\CSharpCourse\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\CSharpCourse\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Monster\Desktop\C# KAMP\kampIntro\CSharpCourse\Inheritance\obj\Debug\Inheritance.pdb

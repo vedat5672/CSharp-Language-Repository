@@ -1,0 +1,17 @@
+C:\Users\Monster\source\repos\FaturaApplication\FaturaApplication\bin\Debug\net6.0-windows\FaturaApplication.exe
+C:\Users\Monster\source\repos\FaturaApplication\FaturaApplication\bin\Debug\net6.0-windows\FaturaApplication.dll
+C:\Users\Monster\source\repos\FaturaApplication\FaturaApplication\bin\Debug\net6.0-windows\FaturaApplication.deps.json
+C:\Users\Monster\source\repos\FaturaApplication\FaturaApplication\bin\Debug\net6.0-windows\FaturaApplication.runtimeconfig.json
+C:\Users\Monster\source\repos\FaturaApplication\FaturaApplication\bin\Debug\net6.0-windows\FaturaApplication.pdb
+C:\Users\Monster\source\repos\FaturaApplication\FaturaApplication\obj\Debug\net6.0-windows\FaturaApplication.csproj.AssemblyReference.cache
+C:\Users\Monster\source\repos\FaturaApplication\FaturaApplication\obj\Debug\net6.0-windows\FaturaApplication.Form1.resources
+C:\Users\Monster\source\repos\FaturaApplication\FaturaApplication\obj\Debug\net6.0-windows\FaturaApplication.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\FaturaApplication\FaturaApplication\obj\Debug\net6.0-windows\FaturaApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\source\repos\FaturaApplication\FaturaApplication\obj\Debug\net6.0-windows\FaturaApplication.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\FaturaApplication\FaturaApplication\obj\Debug\net6.0-windows\FaturaApplication.AssemblyInfo.cs
+C:\Users\Monster\source\repos\FaturaApplication\FaturaApplication\obj\Debug\net6.0-windows\FaturaApplication.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\FaturaApplication\FaturaApplication\obj\Debug\net6.0-windows\FaturaApplication.dll
+C:\Users\Monster\source\repos\FaturaApplication\FaturaApplication\obj\Debug\net6.0-windows\refint\FaturaApplication.dll
+C:\Users\Monster\source\repos\FaturaApplication\FaturaApplication\obj\Debug\net6.0-windows\FaturaApplication.pdb
+C:\Users\Monster\source\repos\FaturaApplication\FaturaApplication\obj\Debug\net6.0-windows\FaturaApplication.genruntimeconfig.cache
+C:\Users\Monster\source\repos\FaturaApplication\FaturaApplication\obj\Debug\net6.0-windows\ref\FaturaApplication.dll

@@ -1,0 +1,15 @@
+C:\Users\Monster\source\repos\SistemGuvenlikUygulaması\SistemGuvenlikUygulaması\bin\Debug\net6.0\SistemGuvenlikUygulaması.exe
+C:\Users\Monster\source\repos\SistemGuvenlikUygulaması\SistemGuvenlikUygulaması\bin\Debug\net6.0\SistemGuvenlikUygulaması.deps.json
+C:\Users\Monster\source\repos\SistemGuvenlikUygulaması\SistemGuvenlikUygulaması\bin\Debug\net6.0\SistemGuvenlikUygulaması.runtimeconfig.json
+C:\Users\Monster\source\repos\SistemGuvenlikUygulaması\SistemGuvenlikUygulaması\bin\Debug\net6.0\SistemGuvenlikUygulaması.dll
+C:\Users\Monster\source\repos\SistemGuvenlikUygulaması\SistemGuvenlikUygulaması\bin\Debug\net6.0\SistemGuvenlikUygulaması.pdb
+C:\Users\Monster\source\repos\SistemGuvenlikUygulaması\SistemGuvenlikUygulaması\obj\Debug\net6.0\SistemGuvenlikUygulaması.csproj.AssemblyReference.cache
+C:\Users\Monster\source\repos\SistemGuvenlikUygulaması\SistemGuvenlikUygulaması\obj\Debug\net6.0\SistemGuvenlikUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\source\repos\SistemGuvenlikUygulaması\SistemGuvenlikUygulaması\obj\Debug\net6.0\SistemGuvenlikUygulaması.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\SistemGuvenlikUygulaması\SistemGuvenlikUygulaması\obj\Debug\net6.0\SistemGuvenlikUygulaması.AssemblyInfo.cs
+C:\Users\Monster\source\repos\SistemGuvenlikUygulaması\SistemGuvenlikUygulaması\obj\Debug\net6.0\SistemGuvenlikUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\SistemGuvenlikUygulaması\SistemGuvenlikUygulaması\obj\Debug\net6.0\SistemGuvenlikUygulaması.dll
+C:\Users\Monster\source\repos\SistemGuvenlikUygulaması\SistemGuvenlikUygulaması\obj\Debug\net6.0\refint\SistemGuvenlikUygulaması.dll
+C:\Users\Monster\source\repos\SistemGuvenlikUygulaması\SistemGuvenlikUygulaması\obj\Debug\net6.0\SistemGuvenlikUygulaması.pdb
+C:\Users\Monster\source\repos\SistemGuvenlikUygulaması\SistemGuvenlikUygulaması\obj\Debug\net6.0\SistemGuvenlikUygulaması.genruntimeconfig.cache
+C:\Users\Monster\source\repos\SistemGuvenlikUygulaması\SistemGuvenlikUygulaması\obj\Debug\net6.0\ref\SistemGuvenlikUygulaması.dll

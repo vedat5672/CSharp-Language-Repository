@@ -1,0 +1,13 @@
+C:\Users\Monster\source\repos\NdpGiyimMagazaUygulamasi\NdpGiyimMagazaUygulamasi\obj\Debug\NdpGiyimMagazaUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Monster\source\repos\NdpGiyimMagazaUygulamasi\NdpGiyimMagazaUygulamasi\obj\Debug\NdpGiyimMagazaUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\source\repos\NdpGiyimMagazaUygulamasi\NdpGiyimMagazaUygulamasi\obj\Debug\NdpGiyimMagazaUygulamasi.Properties.Resources.resources
+C:\Users\Monster\source\repos\NdpGiyimMagazaUygulamasi\NdpGiyimMagazaUygulamasi\obj\Debug\NdpGiyimMagazaUygulamasi.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\NdpGiyimMagazaUygulamasi\NdpGiyimMagazaUygulamasi\obj\Debug\NdpGiyimMagazaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\NdpGiyimMagazaUygulamasi\NdpGiyimMagazaUygulamasi\bin\Debug\NdpGiyimMagazaUygulamasi.exe.config
+C:\Users\Monster\source\repos\NdpGiyimMagazaUygulamasi\NdpGiyimMagazaUygulamasi\bin\Debug\NdpGiyimMagazaUygulamasi.exe
+C:\Users\Monster\source\repos\NdpGiyimMagazaUygulamasi\NdpGiyimMagazaUygulamasi\bin\Debug\NdpGiyimMagazaUygulamasi.pdb
+C:\Users\Monster\source\repos\NdpGiyimMagazaUygulamasi\NdpGiyimMagazaUygulamasi\obj\Debug\NdpGiyimMagazaUygulamasi.exe
+C:\Users\Monster\source\repos\NdpGiyimMagazaUygulamasi\NdpGiyimMagazaUygulamasi\obj\Debug\NdpGiyimMagazaUygulamasi.pdb
+C:\Users\Monster\source\repos\NdpGiyimMagazaUygulamasi\NdpGiyimMagazaUygulamasi\obj\Debug\NdpGiyimMagazaUygulamasi.form1.resources
+C:\Users\Monster\source\repos\NdpGiyimMagazaUygulamasi\NdpGiyimMagazaUygulamasi\obj\Debug\NdpGiyimMagazaUygulamasi.formKayıt.resources
+C:\Users\Monster\source\repos\NdpGiyimMagazaUygulamasi\NdpGiyimMagazaUygulamasi\obj\Debug\NdpGiyimMagazaUygulamasi.FormMagaza.resources
