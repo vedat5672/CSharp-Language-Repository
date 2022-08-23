@@ -1,0 +1,15 @@
+C:\Users\Monster\Desktop\C# Language Repository\UnitTestExample\ShoppingCart\ShoppingCart\bin\Debug\net6.0\ShoppingCart.exe
+C:\Users\Monster\Desktop\C# Language Repository\UnitTestExample\ShoppingCart\ShoppingCart\bin\Debug\net6.0\ShoppingCart.deps.json
+C:\Users\Monster\Desktop\C# Language Repository\UnitTestExample\ShoppingCart\ShoppingCart\bin\Debug\net6.0\ShoppingCart.runtimeconfig.json
+C:\Users\Monster\Desktop\C# Language Repository\UnitTestExample\ShoppingCart\ShoppingCart\bin\Debug\net6.0\ShoppingCart.dll
+C:\Users\Monster\Desktop\C# Language Repository\UnitTestExample\ShoppingCart\ShoppingCart\bin\Debug\net6.0\ShoppingCart.pdb
+C:\Users\Monster\Desktop\C# Language Repository\UnitTestExample\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Language Repository\UnitTestExample\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\C# Language Repository\UnitTestExample\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\C# Language Repository\UnitTestExample\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfo.cs
+C:\Users\Monster\Desktop\C# Language Repository\UnitTestExample\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Language Repository\UnitTestExample\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.dll
+C:\Users\Monster\Desktop\C# Language Repository\UnitTestExample\ShoppingCart\ShoppingCart\obj\Debug\net6.0\refint\ShoppingCart.dll
+C:\Users\Monster\Desktop\C# Language Repository\UnitTestExample\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.pdb
+C:\Users\Monster\Desktop\C# Language Repository\UnitTestExample\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.genruntimeconfig.cache
+C:\Users\Monster\Desktop\C# Language Repository\UnitTestExample\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ref\ShoppingCart.dll

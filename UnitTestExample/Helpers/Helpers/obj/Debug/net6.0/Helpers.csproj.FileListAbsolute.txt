@@ -1,0 +1,15 @@
+C:\Users\Monster\Desktop\C# Language Repository\kampIntro\Helpers\Helpers\bin\Debug\net6.0\Helpers.exe
+C:\Users\Monster\Desktop\C# Language Repository\kampIntro\Helpers\Helpers\bin\Debug\net6.0\Helpers.deps.json
+C:\Users\Monster\Desktop\C# Language Repository\kampIntro\Helpers\Helpers\bin\Debug\net6.0\Helpers.runtimeconfig.json
+C:\Users\Monster\Desktop\C# Language Repository\kampIntro\Helpers\Helpers\bin\Debug\net6.0\Helpers.dll
+C:\Users\Monster\Desktop\C# Language Repository\kampIntro\Helpers\Helpers\bin\Debug\net6.0\Helpers.pdb
+C:\Users\Monster\Desktop\C# Language Repository\kampIntro\Helpers\Helpers\obj\Debug\net6.0\Helpers.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Language Repository\kampIntro\Helpers\Helpers\obj\Debug\net6.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\C# Language Repository\kampIntro\Helpers\Helpers\obj\Debug\net6.0\Helpers.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\C# Language Repository\kampIntro\Helpers\Helpers\obj\Debug\net6.0\Helpers.AssemblyInfo.cs
+C:\Users\Monster\Desktop\C# Language Repository\kampIntro\Helpers\Helpers\obj\Debug\net6.0\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Language Repository\kampIntro\Helpers\Helpers\obj\Debug\net6.0\Helpers.dll
+C:\Users\Monster\Desktop\C# Language Repository\kampIntro\Helpers\Helpers\obj\Debug\net6.0\refint\Helpers.dll
+C:\Users\Monster\Desktop\C# Language Repository\kampIntro\Helpers\Helpers\obj\Debug\net6.0\Helpers.pdb
+C:\Users\Monster\Desktop\C# Language Repository\kampIntro\Helpers\Helpers\obj\Debug\net6.0\Helpers.genruntimeconfig.cache
+C:\Users\Monster\Desktop\C# Language Repository\kampIntro\Helpers\Helpers\obj\Debug\net6.0\ref\Helpers.dll

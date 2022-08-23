@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionAssert.Tests", "CollectionAssert\CollectionAssert.Tests.csproj", "{471C1624-6A64-452D-88D0-942B4845B099}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{471C1624-6A64-452D-88D0-942B4845B099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{471C1624-6A64-452D-88D0-942B4845B099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{471C1624-6A64-452D-88D0-942B4845B099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{471C1624-6A64-452D-88D0-942B4845B099}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3968ECA9-5DFE-4771-9A34-506A5F97DD54}
+	EndGlobalSection
+EndGlobal
